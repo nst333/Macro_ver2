@@ -1,0 +1,15 @@
+﻿  Macro.cpp
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(20,1): warning C4005: 'GetRValue': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(1869,1): message : 'GetRValue'의 이전 정의를 참조하십시오.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(21,1): warning C4005: 'GetGValue': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(1870,1): message : 'GetGValue'의 이전 정의를 참조하십시오.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(22,1): warning C4005: 'GetBValue': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(1871,1): message : 'GetBValue'의 이전 정의를 참조하십시오.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(65,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(78,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(85,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(97,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\ADOFAI_MACRO_ver2\Macro.cpp(121,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Source.cpp
+  코드를 생성하고 있습니다...
+  ADOFAI_MACRO_ver2.vcxproj -> C:\Users\sun80\source\repos\ADOFAI_MACRO_ver2\Debug\ADOFAI_MACRO_ver2.exe
